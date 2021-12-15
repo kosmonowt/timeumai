@@ -1,6 +1,6 @@
 #Timeumai
 
-Timeular to Kimai Connector
+Timeular to Kimai Connector based on **Laravel 8** framework
 
 ## What does it do?
 
